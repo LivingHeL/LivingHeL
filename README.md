@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LivingHeL
-- 👀 I’m interested in data science
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning full stack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
